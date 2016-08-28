@@ -1,0 +1,21 @@
+{
+  "name": "hyperterm-green",
+  "version": "0.1.0",
+  "description": "A matrix/ghost in the shell like theme for Hyperterm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuseppeg/hyperterm-green.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "matrix"
+  ],
+  "author": "Giuseppe Gurgone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giuseppeg/hyperterm-green/issues"
+  },
+  "homepage": "https://github.com/giuseppeg/hyperterm-green#readme"
+}
